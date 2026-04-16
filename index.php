@@ -92,7 +92,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </head>
 <body>
     <header>
-        <h1>Welcome to My PHP Page</h1>
+        <h1>Welcome to Alten PHP Page</h1>
     </header>
     <main>
         <h2>Contact Form</h2>
